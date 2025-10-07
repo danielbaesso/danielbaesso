@@ -1,7 +1,4 @@
 # 👋 Hi, I am Daniel Baesso!
-
-🎯 **Data Analyst | Data Scientist | Geospatial Intelligence | Python Enthusiast**
-
 I'm passionate about **turning data into insights, decisions, and impact** that help people, communities, and organizations make smarter decisions.
 
 > <i>`“Good data analysis doesn’t just describe reality — it helps improve it.”`</i>
