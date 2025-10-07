@@ -1,5 +1,5 @@
 - 👋 Hi, I am Daniel Baesso!
 - 👀 I’m interested in new opportunities and market insertion.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on Data Science and Data Analytics projects 
+- 🌱 I’m currently coding in Python and SQL.
+- 🎯 I’m looking to collaborate on Data Science and Data Analytics projects 
 - 📫 How to reach me: https://www.linkedin.com/in/danielbaesso/
