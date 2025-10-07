@@ -13,7 +13,7 @@ Every dataset tells a story — my mission is to help that story lead to **bette
 
 ---
 
-## 🧠 What I Do
+## 🎯 What I Do
 
 - 🔍 **Data Analysis & Visualization** — transforming raw data into clear, actionable stories.  
 - 🧩 **Data Engineering** — building data pipelines with Python, SQL, and modern libraries.  
